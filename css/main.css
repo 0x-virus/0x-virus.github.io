@@ -1,0 +1,33 @@
+@font-face {
+	font-family: "8bitoperator";
+	src: url("../font/8bitoperator.ttf");
+}
+
+body {
+	background-color: #000000;
+	font-family: "8bitoperator", Regular;
+	color: #22f23a;
+}
+
+.menu_btn {
+	font-size: 1.3rem;
+	margin: 20px 20px 20px 20px;
+	text-decoration: none;
+	color: #22f23a;
+}
+
+.menu_btn:hover {
+	background-color: #2a2b2b;
+}
+
+.menu {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+hr {
+	border: none;
+	color: #22f23a;
+	background-color: #22f23a;
+	height: 1px;
+}
